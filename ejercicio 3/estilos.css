@@ -1,0 +1,25 @@
+ @import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+ html {
+    font-family: 'Sofia', cursive;
+    font-size: 16pt;
+ }
+
+ .encabezado {
+    padding-left: 50px;
+    margin: 10px;
+    border: solid;
+    border-color: brown;
+    background-image: url(https://www.emoji.co.uk/files/emoji-one/food-drink-emoji-one/1628-spaghetti.png);
+    background-color: #faedcd;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
+
+#elemento-1 {
+    color: red;
+}
+
+ul li#elemento-1 {
+    font-size: 2rem;
+}
